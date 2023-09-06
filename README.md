@@ -1,4 +1,4 @@
-**Custom UI Components Repository**
+### Custom UI Components Repository
 
 Welcome to the Custom UI Components repository! This repository contains a collection of custom UI components with enhanced CSS animations that you can use for your websites, projects, or even for learning purposes.
 
